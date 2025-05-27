@@ -14,4 +14,4 @@ min-forks:
 languages: 
 
 # limit displayed repos (useful for reducing API calls) (default all == -1)
-display:
+display: 5
