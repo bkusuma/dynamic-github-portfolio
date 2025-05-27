@@ -166,7 +166,7 @@ a {
 /* embed css */
 .content {
     position: relative;
-    float: right;
+    float: center;
     margin-right: 100px;
 }
 
