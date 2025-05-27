@@ -11,7 +11,7 @@ min-forks:
 
 # filter displayed repos by language (default all)
 #languages: [HTML, CSS, JavaScript, Python]
-languages: 
+languages: [Jupyter Notebook, Python]
 
 # limit displayed repos (useful for reducing API calls) (default all == -1)
 display: 5
